@@ -206,7 +206,7 @@ footer {
     flex-direction: column;
     flex-wrap: wrap;
     background-image: linear-gradient(to bottom, transparent, rgba(0,255,0,.8)),
-    url('assets/pexels-айдана-тастамбек-15085918.jpg');
+    url('https://picsum.photos/id/122/200');
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
